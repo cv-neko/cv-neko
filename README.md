@@ -2,6 +2,10 @@
 
 ## こんにちは ##
 
+![kosen20s](https://img.shields.io/badge/kosen-20s-skyblue?style=for-the-badge)
+![age](https://img.shields.io/badge/age-15-green?style=for-the-badge)
+![school](https://img.shields.io/badge/school-NIT,%20Ibaraki%20College-8d2d3f?style=for-the-badge)<br>
+
 ### 勉強中 ###
  * python
  * HTML
