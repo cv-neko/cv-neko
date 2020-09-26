@@ -10,11 +10,15 @@
  * python
  * HTML
  * CSS
- * PHP
+ * JavaScript
 
 ### やりたい ###
- * JavaScript
+ * Ruby
+ * PHP
  * C#
+
+### ポートフォリオサイト(見てね) ###
+ * https://cv-neko.github.io/
 
 
 <br><a href="https://github.com/anuraghazra/github-readme-stats">
