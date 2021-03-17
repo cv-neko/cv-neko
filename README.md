@@ -1,6 +1,6 @@
 # cv-neko #
 
-nekonekop
+Vue/Python/Swift/HTML5/CSS3
 
 ![kosen20s](https://img.shields.io/badge/kosen-20s-skyblue?style=for-the-badge)
 ![age](https://img.shields.io/badge/age-16-green?style=for-the-badge)
