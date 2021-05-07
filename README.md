@@ -4,7 +4,7 @@
 
 - HTML5/CSS3
 - JavaScript
-   -Vue
+  - Vue
 - Ruby
 - Go
 - Python
