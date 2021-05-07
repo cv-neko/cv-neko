@@ -4,7 +4,9 @@
 
 - [x] HTML5/CSS3
 - [ ] Vue
-- [ ] Swift
+- [ ] JavaScript
+- [ ] Ruby
+- [ ] Go
 - [ ] Python
 
 <br><a href="https://github.com/anuraghazra/github-readme-stats">
