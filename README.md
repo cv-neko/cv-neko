@@ -1,17 +1,31 @@
-# cv-neko #
+## cv-neko
 
-- *Web Developer*
+nekoPです。
+kosen20s　電気系
+📍　NIT-Ibaraki-C / [共同開発鯖]("https://undecided-discord.herokuapp.com") / A-Lab
 
-- HTML5/CSS3
-- JavaScript
-  - Vue
-- Ruby
-- Go
-- Python
-   
-<br><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cv-neko&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cv-neko" />
-</a>
+#### やったこと
+
+- ###### discordbot.py 
+	- 簡単なbotを作ったことがあります。
+
+
+- ###### Vue.js
+	- Vuetifyを用いたSPA [ポートフォリオサイト]("cv-neko.github.io")の製作(修正長)
+	- 回文webアプリケーション製作
+
+
+- ###### Ruby
+	- ターミナル上で動く回文アプリ製作　
+
+
+- ###### Others
+	- figmaでのUIデザイン
+	- お絵描き
+	
+	
+
+#### Works (英語で書いてあると強そう)
+
+coming soon
+
