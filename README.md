@@ -11,7 +11,7 @@ kosen20s　電気系
 
 
 - ###### Vue.js
-	- Vuetifyを用いたSPA [ポートフォリオサイト]("cv-neko.github.io")の製作(修正長)
+	- Vuetifyを用いたSPA [ポートフォリオサイト]("cv-neko.github.io")の製作(修正中)
 	- 回文webアプリケーション製作
 
 
@@ -22,10 +22,4 @@ kosen20s　電気系
 - ###### Others
 	- figmaでのUIデザイン
 	- お絵描き
-	
-	
-
-#### Works (英語で書いてあると強そう)
-
-coming soon
 
